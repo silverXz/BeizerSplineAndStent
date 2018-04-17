@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+..\..\..\Why's Shits\StentFrameGenerator\StentFrameGenerator\dllmain.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码
+  11 of 466 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  StentFrameGenerator.vcxproj -> C:\work\Why's Shits\StentFrameGenerator\x64\Release\StentFrameGenerator.exe
+  StentFrameGenerator.vcxproj -> C:\work\Why's Shits\StentFrameGenerator\x64\Release\StentFrameGenerator.pdb (Full PDB)
